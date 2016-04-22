@@ -1,5 +1,7 @@
-# PillPal
+### PillPal
 
-Repository for Pillpal android app.
 
-https://travis-ci.org/footyapps27/PillPal.svg?branch=master
+### Status
+[![Build Status](https://travis-ci.org/footyapps27/PillPal.svg?branch=master.png)](https://travis-ci.org/footyapps27/PillPal.svg?branch=master)
+
+
